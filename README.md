@@ -11,7 +11,7 @@ This repository show how to setup the Javascript compilation workflow to get the
     npm install
     npm run build
 
-The command "npm run build" will build an index.browserify.js that can be included in the browser.
+The command "npm run build" will build an index.browserify.js under dist/ that can be included in the browser.
 
 The U2F USB interface is currently only supported by google chrome and it only works if the site is server via https.
 
