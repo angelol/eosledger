@@ -4,7 +4,7 @@ This repository show how to setup the Javascript compilation workflow to get the
 
 ## Install dependancies
 
-    npm install -g http-server babel browserify
+    npm install -g http-server babel-cli browserify
 
 ## Usage
 
